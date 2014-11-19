@@ -25,7 +25,7 @@ Description
 
 CSV version:
 
-   CameraMaker;CameraModel;CameraSensorWidth(mm)
+    CameraMaker;CameraModel;CameraSensorWidth(mm)
 
 Contributions to the database are welcome (please use the pull request mechanism)
  
