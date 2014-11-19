@@ -474,6 +474,18 @@ Canon;Canon Pro90 IS;7.11
 Canon;Canon S200;7.53
 Canon;Canon SX220 HS;6.16
 Casio;Casio EX-FR10;6.16
+Casio;Casio EX-N1;6.16
+Casio;Casio EX-N10;6.16
+Casio;Casio EX-N20;6.16
+Casio;Casio EX-N5;6.16
+Casio;Casio EX-N50;6.16
+Casio;Casio EX-TR10;6.16
+Casio;Casio EX-TR15;6.16
+Casio;Casio EX-ZR400;6.16
+Casio;Casio EX-ZR700;6.16
+Casio;Casio EX-ZR800;6.16
+Casio;Casio EX-ZS30;6.16
+Casio;Casio EXILIM  EX-JE10;6.16
 Casio;Casio Exilim EX-10;7.53
 Casio;Casio Exilim EX-100;7.53
 Casio;Casio EXILIM EX-FC100;6.16
@@ -595,17 +607,6 @@ Casio;Casio EXILIM EX-ZS6;6.16
 Casio;Casio EXILIM Pro EX-F1;7.11
 Casio;Casio EXILIM QV-R100;6.16
 Casio;Casio Exilim TRYX;6.16
-Casio;Casio EX-N1;6.16
-Casio;Casio EX-N10;6.16
-Casio;Casio EX-N20;6.16
-Casio;Casio EX-N5;6.16
-Casio;Casio EX-N50;6.16
-Casio;Casio EX-TR10;6.16
-Casio;Casio EX-TR15;6.16
-Casio;Casio EX-ZR400;6.16
-Casio;Casio EX-ZR700;6.16
-Casio;Casio EX-ZR800;6.16
-Casio;Casio EX-ZS30;6.16
 Casio;Casio GV-10;4.5
 Casio;Casio GV-20;4.5
 Casio;Casio QV-2000UX;6.4
@@ -634,15 +635,23 @@ Casio;Casio QV-R51;7.11
 Casio;Casio QV-R52;7.11
 Casio;Casio QV-R61;7.11
 Casio;Casio QV-R62;7.11
+Concord;Concord 00.;6.4
 Concord;Concord 1500;6.4
+Concord;Concord 2.;6.4
 Concord;Concord 3043;6.4
 Concord;Concord 3045;6.4
 Concord;Concord 3046;6.4
 Concord;Concord 3047;6.4
 Concord;Concord 3345z;6.4
 Concord;Concord 3346z;6.4
+Concord;Concord 40.;7.11
 Concord;Concord 4042;5.75
+Concord;Concord 42.;5.75
+Concord;Concord 43.;6.4
 Concord;Concord 4340z;5.75
+Concord;Concord 45.;6.4
+Concord;Concord 46.;6.4
+Concord;Concord 47.;6.4
 Concord;Concord 5040;7.11
 Concord;Concord 5340z;5.75
 Concord;Concord 5345z;7.11
@@ -696,11 +705,11 @@ Epson;Epson PhotoPC L-400;5.75
 Epson;Epson PhotoPC L-410;5.75
 Epson;Epson PhotoPC L-500V;5.75
 Epson;Epson R-D1;23.7
-Epson;Epson RD-1s;23.7
 Epson;Epson R-D1xG;23.7
+Epson;Epson RD-1s;23.7
 Fujifilm;Fujifilm A850;5.75
-Fujifilm;Fujifilm Bigjob HD1;5.33
 Fujifilm;Fujifilm Bigjob HD-3W;5.75
+Fujifilm;Fujifilm Bigjob HD1;5.33
 Fujifilm;Fujifilm Digital Q1;6.4
 Fujifilm;Fujifilm DS-260HD;6.4
 Fujifilm;Fujifilm DS-300;8.8
@@ -1043,20 +1052,20 @@ Fujifilm;Fujifilm MX-2900 Zoom;6.4
 Fujifilm;Fujifilm MX-500;6.4
 Fujifilm;Fujifilm MX-600 Zoom;6.4
 Fujifilm;Fujifilm MX-700;6.4
+Fujifilm;Fujifilm X-A1;23.6
+Fujifilm;Fujifilm X-E1;23.6
+Fujifilm;Fujifilm X-E2;23.6
+Fujifilm;Fujifilm X-M1;23.6
+Fujifilm;Fujifilm X-Pro1;23.6
+Fujifilm;Fujifilm X-S1;8.8
+Fujifilm;Fujifilm X-T1;23.6
 Fujifilm;Fujifilm X10;8.8
 Fujifilm;Fujifilm X100S;23.6
 Fujifilm;Fujifilm X100T;23.6
 Fujifilm;Fujifilm X20;8.8
 Fujifilm;Fujifilm X30;8.8
-Fujifilm;Fujifilm X-A1;23.6
-Fujifilm;Fujifilm X-E1;23.6
-Fujifilm;Fujifilm X-E2;23.6
 Fujifilm;Fujifilm XF1;8.8
-Fujifilm;Fujifilm X-M1;23.6
-Fujifilm;Fujifilm X-Pro1;23.6
 Fujifilm;Fujifilm XQ1;8.8
-Fujifilm;Fujifilm X-S1;8.8
-Fujifilm;Fujifilm X-T1;23.6
 GE;GE A1030;7.53
 GE;GE A1035;6.08
 GE;GE A1050;6.08
@@ -1496,34 +1505,35 @@ Kyocera;Kyocera Finecam S5;7.11
 Kyocera;Kyocera Finecam S5R;7.11
 Kyocera;Kyocera Finecam SL300R;5.33
 Kyocera;Kyocera Finecam SL400R;5.33
+Leica;Leica  X1;23.6
 Leica;Leica C (Typ112);7.53
 Leica;Leica C-LUX 1;5.75
 Leica;Leica C-LUX 2;5.75
 Leica;Leica C-LUX 3;6.08
-Leica;Leica Digilux;6.4
-Leica;Leica Digilux 1;7.53
-Leica;Leica Digilux 2;8.8
-Leica;Leica Digilux 3;17.3
-Leica;Leica Digilux 4.3;7.53
-Leica;Leica Digilux Zoom;6.4
 Leica;Leica D-LUX;5.75
 Leica;Leica D-LUX 2;7.76
 Leica;Leica D-LUX 3;7.76
 Leica;Leica D-LUX 4;7.85
 Leica;Leica D-LUX 5;7.85
 Leica;Leica D-Lux 6;7.53
+Leica;Leica Digilux;6.4
+Leica;Leica Digilux 1;7.53
+Leica;Leica Digilux 2;8.8
+Leica;Leica Digilux 3;17.3
+Leica;Leica Digilux 4.3;7.53
+Leica;Leica Digilux Zoom;6.4
 Leica;Leica M Typ 240;36
+Leica;Leica M-E Typ 220;35.8
+Leica;Leica M-Monochrom;35.8
+Leica;Leica M-P;36
 Leica;Leica M8;27
 Leica;Leica M8.2;27
 Leica;Leica M9;35.8
 Leica;Leica M9 Titanium;35.8
 Leica;Leica M9-P;35.8
-Leica;Leica M-E Typ 220;35.8
-Leica;Leica M-Monochrom;35.8
-Leica;Leica M-P;36
 Leica;Leica S (Type 007);45
-Leica;Leica S2;45
 Leica;Leica S-E;45
+Leica;Leica S2;45
 Leica;Leica T (Typ 701);23.6
 Leica;Leica V-LUX 1;7.11
 Leica;Leica V-LUX 2;6.08
@@ -1534,9 +1544,9 @@ Leica;Leica V-Lux 4;6.16
 Leica;Leica V-Lux 40;6.08
 Leica;Leica X (Typ 113);23.6
 Leica;Leica X Vario;23.6
+Leica;Leica X-E;23.6
 Leica;Leica X1;23.6
 Leica;Leica X2;23.6
-Leica;Leica X-E;23.6
 Minolta;Minolta DiMAGE 2300;7.53
 Minolta;Minolta DiMAGE 2330;7.53
 Minolta;Minolta DiMAGE 5;7.11
@@ -1866,6 +1876,8 @@ Nikon;Nikon E3;8.8
 Nikon;Nikon E3s;8.8
 Nokia;Nokia 808 PureView;10.82
 Nokia;Nokia Lumia 1020;8.64
+Olympus;Olympus ;3.2
+Olympus;Olympus  E-300 / EVOLT E-300;17.3
 Olympus;Olympus AZ-1;5.33
 Olympus;Olympus AZ-1 Ferrari 2004;5.33
 Olympus;Olympus AZ-2 Zoom;5.33
@@ -2118,6 +2130,7 @@ Olympus;Olympus Stylus Tough 8000;6.08
 Olympus;Olympus Stylus Tough 8010;6.08
 Olympus;Olympus Stylus Tough-3000;6.08
 Olympus;Olympus Stylus Verve;5.75
+Olympus;Olympus Stylus Verve  S;5.75
 Olympus;Olympus Stylus Verve S;5.75
 Olympus;Olympus Stylus XZ-10;6.16
 Olympus;Olympus SZ-10;6.16
@@ -2173,6 +2186,7 @@ Olympus;Olympus X-905;6.16
 Olympus;Olympus X-920;6.16
 Olympus;Olympus XZ-1;7.85
 Olympus;Olympus XZ-2 iHS;7.53
+Panasonic;Panasonic  Lumix DMC-LZ20;6.08
 Panasonic;Panasonic D-snap SV-AS10;4.5
 Panasonic;Panasonic D-snap SV-AS3;4.5
 Panasonic;Panasonic D-snap SV-AS30;4.5
@@ -2411,12 +2425,6 @@ Pentax;Pentax EI-100;4.5
 Pentax;Pentax EI-200;5.33
 Pentax;Pentax EI-2000;8.8
 Pentax;Pentax K-01;23.7
-Pentax;Pentax K100D;23.5
-Pentax;Pentax K100D Super;23.5
-Pentax;Pentax K10D;23.5
-Pentax;Pentax K110D;23.7
-Pentax;Pentax K200D;23.5
-Pentax;Pentax K20D;23.4
 Pentax;Pentax K-3;23.5
 Pentax;Pentax K-30;23.7
 Pentax;Pentax K-5;23.6
@@ -2428,6 +2436,12 @@ Pentax;Pentax K-m;23.5
 Pentax;Pentax K-r;23.6
 Pentax;Pentax K-S1;23.5
 Pentax;Pentax K-x;23.6
+Pentax;Pentax K100D;23.5
+Pentax;Pentax K100D Super;23.5
+Pentax;Pentax K10D;23.5
+Pentax;Pentax K110D;23.7
+Pentax;Pentax K200D;23.5
+Pentax;Pentax K20D;23.4
 Pentax;Pentax MX-1;7.53
 Pentax;Pentax Optio 230;5.33
 Pentax;Pentax Optio 30;5.33
@@ -2528,9 +2542,9 @@ Pentax;Pentax Optio WS80;6.08
 Pentax;Pentax Optio X;5.75
 Pentax;Pentax Optio Z10;5.75
 Pentax;Pentax Q;6.16
+Pentax;Pentax Q-S1;7.53
 Pentax;Pentax Q10;6.16
 Pentax;Pentax Q7;7.53
-Pentax;Pentax Q-S1;7.53
 Pentax;Pentax WG-10;6.16
 Pentax;Pentax WG-3;6.16
 Pentax;Pentax X-5;6.08
@@ -3268,6 +3282,7 @@ Sony;Sony Alpha NEX-6;23.5
 Sony;Sony Alpha NEX-7;23.5
 Sony;Sony Alpha NEX-C3;23.4
 Sony;Sony Alpha NEX-F3;23.4
+Sony;Sony Cyber-shot DSC-RX1;35.8
 Sony;Sony Cybershot DSC D700;6.4
 Sony;Sony Cybershot DSC D770;6.4
 Sony;Sony Cybershot DSC F505;6.4
@@ -3485,7 +3500,6 @@ Sony;Sony Cybershot DSC-HX300;6.16
 Sony;Sony Cybershot DSC-HX400;6.16
 Sony;Sony Cybershot DSC-QX10;6.16
 Sony;Sony Cybershot DSC-QX100;13.2
-Sony;Sony Cyber-shot DSC-RX1;35.8
 Sony;Sony Cybershot DSC-RX10;13.2
 Sony;Sony Cybershot DSC-RX100 III;13.2
 Sony;Sony Cybershot DSC-TF1;6.16
