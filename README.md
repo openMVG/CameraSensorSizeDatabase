@@ -1,8 +1,8 @@
-=====================================
-OpenMVG (open Multiple View Geometry)
-=====================================
+===========================
+Camera Sensor Size Database
+===========================
 
-An openSource camera sensor size database.
+An open camera sensor size database.
 
 ------------
 Introduction
@@ -19,18 +19,28 @@ focal_pix = (max( w, h ) * focal_mm) / ccdw_mm
   - w,h  the image of width and height (pixels),
   - ccdw_mm: the known sensor width size (mm).
 
-------------
+-----------
 Description
-------------
+-----------
 
-CSV version:
+There are two flavors of the database.
 
-    CameraMaker;CameraModel;CameraSensorWidth(mm)
+The sensor_database.csv has the format
+
+    CameraMaker;CameraModel;SensorWidth(mm)
+
+The sensor_database_detailed.csv 
+
+    CameraMaker;CameraModel;SensorDescription;SensorWidth(mm);SensorHeight(mm),SensorWidth(pixels),SensorHeight(pixels)
+
+The initial version of this database has been contributed by the openMVG project and Gregor Brdnik, the creator of http://www.digicamdb.com/.
 
 Contributions to the database are welcome (please use the pull request mechanism)
- 
+
+
 -------
 License
 -------
 
-See [LICENSE MPL2](https://github.com/openMVG/cameraSensorSizeDatabase/raw/master/license.openMVG) text file
+The database is available under the MIT license, see the [LICENSE](https://github.com/openMVG/cameraSensorSizeDatabase/raw/master/LICENSE) text file.
+
