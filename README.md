@@ -1,8 +1,8 @@
-======================
-Camera Sensor Database
-======================
+===========================
+Camera Sensor Size Database
+===========================
 
-An open source camera sensor size database.
+An open camera sensor size database.
 
 ------------
 Introduction
@@ -42,5 +42,5 @@ Contributions to the database are welcome (please use the pull request mechanism
 License
 -------
 
-See [LICENSE MPL2](https://github.com/openMVG/cameraSensorSizeDatabase/raw/master/license.openMVG) text file
+The database is available under the MIT license, see the [LICENSE](https://github.com/openMVG/cameraSensorSizeDatabase/raw/master/LICENSE) text file.
 
