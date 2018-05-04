@@ -697,6 +697,7 @@ Contax;Contax SL300R T;5.33
 Contax;Contax TVS Digital;7.11
 Contax;Contax U4R;5.33
 DJI;FC300S;6.16
+DJI;FC6310;6.17
 Epson;Epson L-500V;5.75
 Epson;Epson PhotoPC 3000 Zoom;7.11
 Epson;Epson PhotoPC 3100 Zoom;7.11
@@ -2697,6 +2698,8 @@ Praktica;Praktica Luxmedia 8503;5.75
 Praktica;Praktica Mini;6.4
 Praktica;Praktica V2.1;6.4
 Praktica;Praktica V3.2;6.4
+RaspberryPi;RP_OV5647;3.2
+RaspberryPi;RP_imx219;3.2
 Ricoh;Ricoh Caplio 400G Wide;5.33
 Ricoh;Ricoh Caplio 500G;7.11
 Ricoh;Ricoh Caplio 500G Wide;7.11
