@@ -1,3 +1,4 @@
+CaeraMaker,CameraModel,SensorDescription,SensorWidth(mm),SensorHeight(mm),SensorWidth(pixels),SensorHeight(pixels)
 Acer,CE-5330,"1/2.5"" (~ 5.75 x 4.32 mm)",5.75,4.32,2579,1939
 Acer,CE-5430,"1/2.5"" (~ 5.75 x 4.32 mm)",5.75,4.32,2579,1939
 Acer,CE-6430,"1/2.5"" (~ 5.75 x 4.32 mm)",5.75,4.32,2909,2187
