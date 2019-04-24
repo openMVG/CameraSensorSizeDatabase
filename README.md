@@ -27,11 +27,11 @@ There are two flavors of the database.
 
 The sensor_database.csv has the format
 
-    CameraMaker;CameraModel;SensorWidth(mm)
+    CameraMaker,CameraModel,SensorWidth(mm)
 
-The sensor_database_detailed.csv 
+The sensor_database_detailed.csv
 
-    CameraMaker;CameraModel;SensorDescription;SensorWidth(mm);SensorHeight(mm),SensorWidth(pixels),SensorHeight(pixels)
+    CameraMaker,CameraModel,SensorDescription,SensorWidth(mm),SensorHeight(mm),SensorWidth(pixels),SensorHeight(pixels)
 
 The initial version of this database has been contributed by the openMVG project and Gregor Brdnik, the creator of http://www.digicamdb.com/.
 
@@ -43,4 +43,3 @@ License
 -------
 
 The database is available under the MIT license, see the [LICENSE](https://github.com/openMVG/cameraSensorSizeDatabase/raw/master/LICENSE) text file.
-
